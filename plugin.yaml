@@ -1,0 +1,6 @@
+plugin:
+    name: 'SmartEmailing'
+    description: 'SmartEmailing.cz connector'
+    author: 'Vojta Svoboda'
+    icon: icon-envelope
+    homepage: 'https://www.smartemailing.cz'

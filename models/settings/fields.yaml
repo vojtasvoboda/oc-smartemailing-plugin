@@ -1,0 +1,7 @@
+fields:
+    api_username:
+        label: SmartEmailing API username
+        commentAbove: Get an API Username from SmartEmailing > Account > API Keys > one of the red username on the top of the page.
+    api_key:
+        label: SmartEmailing API key
+        commentAbove: Get an API Key from SmartEmailing > Account > API Keys > Create API Key.

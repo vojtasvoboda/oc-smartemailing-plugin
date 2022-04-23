@@ -1,0 +1,24 @@
+{
+    "name": "vojtasvoboda/smartemailing-plugin",
+    "description": "SmartEmailing.cz connector for OctoberCMS",
+    "type": "october-plugin",
+    "keywords": ["smartemailing"],
+    "require": {
+        "php": ">=5.5.9",
+        "composer/installers": "~1.0",
+        "pion/smart-emailing-v3": "^0.3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vojta Svoboda",
+            "email": "vojtasvoboda.cz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}
