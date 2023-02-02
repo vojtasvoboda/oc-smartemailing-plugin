@@ -4,9 +4,9 @@
     "type": "october-plugin",
     "keywords": ["smartemailing"],
     "require": {
-        "php": ">=5.5.9",
+        "php": ">=7.3",
         "composer/installers": "~1.0",
-        "pion/smart-emailing-v3": "^0.3.0"
+        "pion/smart-emailing-v3": "^0.4.0"
     },
     "license": "MIT",
     "authors": [
